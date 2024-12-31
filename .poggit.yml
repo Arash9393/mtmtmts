@@ -1,6 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Arash9393/mtmtmts
-build-by-default: true
+build-by-default: falt
 branches:
 - main
-projects: []
+projects: [mtmtmts]
 ...
